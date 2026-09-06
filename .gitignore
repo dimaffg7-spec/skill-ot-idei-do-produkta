@@ -1,0 +1,5 @@
+.DS_Store
+
+# внутреннее, наружу не идёт (как в 28-finish-session-skill)
+CLAUDE.md
+business/
